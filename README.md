@@ -1,2 +1,1 @@
-# B.L.E.P.
-Bionic Lifelike Ears Project
+# B.L.E.P.: the Bionic Lifelike Ears Project
